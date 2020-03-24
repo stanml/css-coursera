@@ -50,8 +50,6 @@ h1 {
 	.col-lg-4 {
 		float: left;
 		position: relative;
-	}
-	.col-lg-4 {
 		width: 33%;
 	}
 }
@@ -73,8 +71,6 @@ h1 {
 	.col-sm-12 {
 		float: left;
 		position: relative;
-	}
-	.col-sm-12 {
 		width: 100%;
 	}
 }
