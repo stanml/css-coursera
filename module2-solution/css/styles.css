@@ -9,10 +9,10 @@ h1 {
 }
 
 .title {
-	position: relative;
+	position: absolute;
 	top: -3px;
-	left: 70%;
-	width: 30%;
+	right: -3px;
+	width: 150;
 	border: 3px solid black;
 	text-align: center;
 	font-size: 125%;
@@ -37,13 +37,13 @@ h1 {
 
 .content {
 	padding: 5px 10px 5px 10px;
-	clear: right;
 }
 
 .box {
 	border: 3px solid black;
 	margin: 10px;
 	background-color: gray;
+	position: relative;
 }
 
 @media (min-width: 992px) {
